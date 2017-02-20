@@ -1,2 +1,2 @@
 # Hackathon_V2
-Information n  for the Marta Hackatho
+Information for the Marta Hackatho
