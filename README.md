@@ -22,7 +22,7 @@ Describe and show how to run the tests with code examples. -->
 
 ##Contributors
 	Nerando, Mark, Darshan, Danny, Anne, Brittany, and more.
-![alt tag](team.jpg)
+![alt tag](team.png)
 ##License
 <!-- 	MIT License
 
