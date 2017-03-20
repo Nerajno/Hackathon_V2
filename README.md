@@ -1,14 +1,14 @@
-#marta-hackathon_V2
+# marta-hackathon_V2
 
 Central Repo for the MARTA-Mobility project **updated March 11th, 2017
 
-##Synopsis
+## Synopsis
 This project's aim is to implement MARTA's existing schedule data into simple interfaces for the convenience of Marta-Mobility customers.
 <!-- 
 ##Code Example
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise. -->
 
-##Motivation
+## Motivation
 To improve the lives of Atlanta's disabled by making transit simpler and more predictable.
 
 <!-- ##Installation
@@ -20,11 +20,11 @@ Depending on the size of the project, if it is small and simple enough the refer
 <!-- ##Tests
 Describe and show how to run the tests with code examples. -->
 
-##Contributors
+## Contributors
 	Danny, Mark, Nerando, Brittany, Anne, Darshan, and more.
 ![alt tag](team.png)
-##License
-<!-- 	MIT License
+## License
+	MIT License
 
 Copyright (c) [2017] [Marta-Mob]
 
@@ -44,4 +44,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. -->
+SOFTWARE. 
