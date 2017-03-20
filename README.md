@@ -22,7 +22,7 @@ Describe and show how to run the tests with code examples. -->
 
 ##Contributors
 	Danny, Mark, Nerando, Brittany, Anne, Darshan, and more.
-![alt tag]("unsorted stuff/team.png")
+![alt tag](team.png)
 ##License
 <!-- 	MIT License
 
